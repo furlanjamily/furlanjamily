@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="center">Minhas estatisticas:</h3>
+<h3 align="center">Minhas estatísticas:</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
